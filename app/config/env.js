@@ -1,10 +1,10 @@
 
 
 const env = {
-  database: 'apistiendaropa',
-  username: 'apistiendaropa_user',
-  password: '1AHQ6vLQx0EOzE6f9dc5nwv5hUykFTlU',
-  host: 'dpg-cqlek088fa8c73appv6g-a.oregon-postgres.render.com',
+  database: 'practica_parcial_eiaz',
+  username: 'practica_parcial_eiaz_user',
+  password: 'WzRmFOzcqe0JlYDzA1Jo385OsShXgXZD',
+  host: 'dpg-crop7shu0jms73cdeql0-a.oregon-postgres.render.com',
   dialect: 'postgres',
   pool: {
     max: 5, 
